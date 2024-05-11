@@ -8,5 +8,5 @@ a microservice created by my partner in this project. The program also provides
 a list of the other common betta illnesses and information on them as well
 as products to help them.
 
-To srat the program, start the Amazon_list_REP.py file first to
+To start the program, start the Amazon_list_REP.py file first to
 activate the microservice, then the main.py file.
